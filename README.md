@@ -1,1 +1,2 @@
-# rossmann-telegram-api-main
+# rossmann-telegram-api
+Bot
